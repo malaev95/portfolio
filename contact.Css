@@ -1,0 +1,43 @@
+
+
+
+
+
+html{
+
+    background-image: url("/PICTURES/vecteezy_wave-vector-element-with-abstract-colorful-gradient-lines_3705385.jpg");
+    
+        
+    }
+
+body{
+
+    text-align: center;
+
+}
+
+form{
+
+    position: relative;
+    top: 300px;
+}
+
+input{
+    background-color: black;
+    color: white;
+}
+
+.name{
+    color: red;
+}
+.email{
+    color: red;
+}
+.bericht{
+    color: red;
+}
+.submit{
+    color: red;
+    background-color: black;
+    
+}
