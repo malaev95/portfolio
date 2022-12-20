@@ -4,8 +4,8 @@
 
 html{
 
-background-image: url("/PICTURES/digital-art-men-city-futuristic-night-hd-wallpaper-preview.jpg");
-line-height: 30px;
+background-image: url("/PICTURES/vecteezy_wave-vector-element-with-abstract-colorful-gradient-lines_3705385.jpg");
+
     
 }
 
@@ -47,6 +47,16 @@ img {
     margin-left: 20px;
     border: solid black 10px;
 }
+
+
+
+@media only screen and (max-width: 600px) {
+   img{
+
+    width: auto;
+    height: auto;
+   }
+  }
 
 
 .container{
@@ -142,7 +152,7 @@ color: darkmagenta;
 
 
 ul{
-
+list-style: none;
     display: flex;
     flex-flow: row-reverse nowrap;
     justify-content: center;
